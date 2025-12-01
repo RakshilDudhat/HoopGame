@@ -1,4 +1,4 @@
-# 🏀 Hoop
+# 🏀 Hoop Game
 
 [![Swift](https://img.shields.io/badge/Swift-5.7-orange.svg)](https://swift.org)
 [![iOS](https://img.shields.io/badge/iOS-16.0+-blue.svg)](https://developer.apple.com/ios/)
